@@ -6,6 +6,7 @@ Para hacker o ps vita utlizar o Final h-encore e do qcma
 Push the h-encore exploit for PS VITA andPS TV through a Windows, macOS or Linux GUI.
 
 [Final h-encore v1.92](https://github.com/soarqin/finalhe/releases)
+
 [qcma](https://github.com/codestation/qcma)
 
 ### Common usage
@@ -38,8 +39,11 @@ Download a pre-built executable binary below and follow instructions. Supported 
 
 ## Jogos em Vpk
 Download de varios jogos em vpk
+
 Jogos vpk da [romsforever](https://romsforever.cc/PSV/VPK%20Games/Patched/?ND)
+
 Lista de jogos (https://romsforever.cc/PSV/)
+
 Jogos VPN da [archive.org](https://archive.org/download/PSVITA_VPK)
 
 ## PSP para PSVita
