@@ -40,6 +40,7 @@ Download a pre-built executable binary below and follow instructions. Supported 
 Download de varios jogos em vpk
 Jogos vpk da [romsforever](https://romsforever.cc/PSV/VPK%20Games/Patched/?ND)
 Lista de jogos (https://romsforever.cc/PSV/)
+Jogos VPN da [archive.org](https://archive.org/download/PSVITA_VPK)
 
 ## PSP para PSVita
 Comverter os jogos ISO do psp para o psvita
