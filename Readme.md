@@ -79,7 +79,8 @@ Autoplugin for PSVITA This tool allows you to install/uninstall the following pl
 | NoPsmDrm | (https://github.com/frangarcj/NoPsmDrm)|
 | NoNpDrm | (https://github.com/TheOfficialFloW/NoNpDrm) |
 | MiniVitaTV | (https://github.com/TheOfficialFloW/MiniVitaTV) |
-| PSVita UDCD USB Video | (https://github.com/xerpi/vita-udcd-uvc)
+| PSVita UDCD USB Video | (https://github.com/xerpi/vita-udcd-uvc) |
+| VitaShell | (https://github.com/TheOfficialFloW/VitaShell) |
 
 
 
