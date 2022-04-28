@@ -48,7 +48,8 @@ Jogos VPN da [archive.org](https://archive.org/download/PSVITA_VPK)
 
 ## PSP para PSVita
 Comverter os jogos ISO do psp para o psvita
-[chovy-sign](https://github.com/KuromeSan/chovy-sign/releases)
+[chovy-sign](https://github.com/KuromeSan/chovy-sign/releases) 
+[chovy-sign]((https://silica.codes/SilicaAndPina/chovy-sign)
 
 - chovy-sign is an application to allow you to convert PSP ISO's to be playable on unmodified PSVita's
 
@@ -71,12 +72,14 @@ ux0:tai/plugin.skprx
 
 ### AutoPlugin 2
 Autoplugin for PSVITA This tool allows you to install/uninstall the following plugins with one click
-[Github](https://github.com/ONElua/AutoPlugin2/releases)
+[Github AutoPlugin2](https://github.com/ONElua/AutoPlugin2/releases)
 
 | Plugin | Url |
 |--------|-------|
 | NoPsmDrm | (https://github.com/frangarcj/NoPsmDrm)|
 | NoNpDrm | (https://github.com/TheOfficialFloW/NoNpDrm) |
+| MiniVitaTV | (https://github.com/TheOfficialFloW/MiniVitaTV) |
+| PSVita UDCD USB Video | (https://github.com/xerpi/vita-udcd-uvc)
 
 
 
